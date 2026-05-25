@@ -16,7 +16,7 @@ This portfolio showcases my:
 
 ## 🌐 Live Portfolio
 
-https://YOUR_USERNAME.github.io/portfolio/
+https://abhiiibhattt.github.io/portfolio/
 
 (Replace `YOUR_USERNAME` after deployment.)
 
